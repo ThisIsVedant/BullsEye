@@ -1,0 +1,62 @@
+[
+  {
+    "stockname": ["Bajaj Finance", false],
+    "price": 7200,
+    "date": "05.Jan.2025",
+    "change": 84.6
+  },
+  {
+    "stockname": ["Bharti Airtel", false],
+    "price": 1650,
+    "date": "10.Feb.2025",
+    "change": 80.2
+  },
+  {
+    "stockname": ["Sun Pharmaceutical", false],
+    "price": 1850,
+    "date": "15.Mar.2025",
+    "change": 77.9
+  },
+  {
+    "stockname": ["Tata Motors", false],
+    "price": 950,
+    "date": "20.Apr.2025",
+    "change": 75.8
+  },
+  {
+    "stockname": ["State Bank of India", false],
+    "price": 820,
+    "date": "08.Jan.2025",
+    "change": 79.3
+  },
+  {
+    "stockname": ["Mahindra & Mahindra", false],
+    "price": 2750,
+    "date": "25.Feb.2025",
+    "change": 82.1
+  },
+  {
+    "stockname": ["NTPC", false],
+    "price": 420,
+    "date": "12.Mar.2025",
+    "change": 73.5
+  },
+  {
+    "stockname": ["Asian Paints", false],
+    "price": 2950,
+    "date": "01.Apr.2025",
+    "change": 76.7
+  },
+  {
+    "stockname": ["Power Grid Corporation", false],
+    "price": 340,
+    "date": "18.Jan.2025",
+    "change": 74.2
+  },
+  {
+    "stockname": ["Maruti Suzuki", false],
+    "price": 12500,
+    "date": "30.Mar.2025",
+    "change": 81.4
+  }
+]

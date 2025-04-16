@@ -1,0 +1,31 @@
+[{
+  "stockname": ["Reliance Industries", false],
+  "price": 3050,
+  "date": "10.Jan.2025",
+  "change": 82.3
+},
+{
+  "stockname": ["HDFC Bank", false],
+  "price": 1780,
+  "date": "15.Feb.2025",
+  "change": 78.9
+},
+{
+  "stockname": ["Infosys", false],
+  "price": 1920,
+  "date": "20.Mar.2025",
+  "change": 85.1
+},
+{
+  "stockname": ["ICICI Bank", false],
+  "price": 1325,
+  "date": "05.Apr.2025",
+  "change": 79.4
+},
+{
+  "stockname": ["Tata Consultancy Services", false],
+  "price": 4250,
+  "date": "12.Jan.2025",
+  "change": 88.7
+}
+]
