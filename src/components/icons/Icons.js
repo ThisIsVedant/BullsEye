@@ -469,7 +469,7 @@ export const BullsEyeLogo = createIcon({
     //     fill='currentColor'
     //   />
     // </g>
-    <svg height="30" width="200" xmlns="http://www.w3.org/2000/svg">
+    <svg height="20" width="200" xmlns="http://www.w3.org/2000/svg">
   <text x="30" y="15" fontSize="30" fill="red">BullsEye</text>
 </svg>
   ),

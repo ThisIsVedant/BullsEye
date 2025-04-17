@@ -6,7 +6,6 @@
 
 ![version](https://img.shields.io/badge/version-3.0.0-brightgreen.svg)
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
-[![GitHub issues open](https://img.shields.io/github/issues/horizon-ui/horizon-ui-chakra.svg?maxAge=2592000)](https://github.com/horizon-ui/horizon-ui-chakra/issues?q=is%3Aopen+is%3Aissue)
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://horizon-ui.com/&text=Check%20Horizon%20UI,%20the%20trendiest%20open-source%20admin%20template%20for%20Chakra%20UI%20&%20React!)
 
 ---
@@ -49,26 +48,15 @@ These prompts helped me rapidly develop highly functional UI blocks with clean d
 
 Every page and component is designed mobile-first using Tailwind's `sm`, `md`, and `lg` breakpoints. Cards stack smartly, overflow is hidden, and there are no layout shifts or horizontal scroll issues.
 
----
-
-## 📊 Project Demo
-
-🔗 [Check Live Demo](https://horizon-ui.com/horizon-ui-chakra)  
-📸 Screenshots available in the `/public` folder
-
----
-
 ## 📦 Quick Start
 
 ```bash
-git clone https://github.com/horizon-ui/horizon-ui-chakra.git
+git clone https://github.com/ThisIsVedant/BullsEye
 cd horizon-ui-chakra
 npm install
 npm run dev
 
-
-
-# [Horizon UI ⚡️](https://Horizon-ui.com/Horizon-ui-chakra) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://Horizon-ui.com/&text=Check%20Horizon%20UI,%20the%20trendiest%20open-source%20admin%20template%20for%20Chakra%20UI%20&%20React!)
+)
 
 ![version](https://img.shields.io/badge/version-3.0.0-brightgreen.svg)
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -109,66 +97,6 @@ Each element is well presented in a very complex documentation. You can read
 more about the <a href="https://Horizon-ui.com/documentation/docs/introduction?ref=readme-Horizon" target="_blank">documentation
 here.</a>
 
-### Quick Start
-
-Install Horizon UI by running either of the following:
-
-- Install NodeJS LTS from
-  [NodeJs Official Page](https://nodejs.org/en/?ref=Horizon-documentation)
-  (NOTE: Product only works with LTS version)
-
-Clone the repository with the following command:
-
-```bash
-git clone https://github.com/Horizon-ui/Horizon-ui-chakra.git
-```
-
-Run in terminal this command:
-
-```bash
-npm install
-```
-
-Then run this command to start your local server
-
-```bash
-npm start
-```
-
-### Example Pages
-
-If you want to get inspiration or just show something directly to your clients,
-you can jump start your development with our pre-built example pages. You will
-be able to quickly set up the basic structure for your web project. View
-<a href="https://Horizon-ui.com/Horizon-ui-chakra/?ref=readme-Horizon" target="_blank">example
-pages here.</a>
-
-### Versions
-
-| Free Version                                                                                                       | PRO Version                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
-| [![Horizon UI](https://i.ibb.co/fdyTwz1/introduction-image-2.png)](https://www.Horizon-ui.com/?ref=readme-Horizon) | [![Horizon UI PRO](https://i.ibb.co/R6jFKRM/introduction-image-1.png)](https://www.Horizon-ui.com/pro?ref=readme-Horizon) |
-
-### Figma Version
-
-Horizon UI is available in Figma format as well! Check it out on Figma
-Community! 🎨
-[See the Horizon UI Figma design files](https://bit.ly/Horizon-figma)
-
-### Reporting Issues
-
-We use GitHub Issues as the official bug tracker for the Horizon UI. Here are
-some advices for our users that want to report an issue:
-
-1. Make sure that you are using the latest version of the Horizon UI Dashbaord.
-   Check the CHANGELOG from your dashboard on our
-   [CHANGE LOG File](https://github.com/Horizon-ui/Horizon-ui-chakra/blob/main/CHANGELOG.md?ref=readme-Horizon).
-2. Providing us reproducible steps for the issue will shorten the time it takes
-   for it to be fixed.
-3. Some issues may be browser specific, so specifying in what browser you
-   encountered the issue might help.
-
----
 
 ### Community
 

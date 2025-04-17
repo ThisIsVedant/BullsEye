@@ -244,7 +244,7 @@ export default function HeaderLinks(props) {
             _hover={{ cursor: 'pointer' }}
             color="white"
             name="Adela Parkson"
-            bg="#11047A"
+            bg="#FF6666"
             size="sm"
             w="40px"
             h="40px"
