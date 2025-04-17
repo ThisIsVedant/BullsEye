@@ -2,7 +2,7 @@
 
 > 🧠 Built with AI prompts + Horizon UI as the foundation  
 > 🎨 Enhanced using custom TailwindCSS logic and React components  
-> 🌍 Live Demo: [https://horizon-ui.com/horizon-ui-chakra](https://horizon-ui.com/horizon-ui-chakra)
+> 🌍 Live Demo: [https://bulls-eye-seven.vercel.app](https://bulls-eye-seven.vercel.app)
 
 ![version](https://img.shields.io/badge/version-3.0.0-brightgreen.svg)
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
