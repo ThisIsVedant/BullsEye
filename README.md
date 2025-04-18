@@ -52,7 +52,7 @@ Every page and component is designed mobile-first using Tailwind's `sm`, `md`, a
 
 ```bash
 git clone https://github.com/ThisIsVedant/BullsEye
-cd horizon-ui-chakra
+cd BullsEye
 npm install
 npm run dev
 ```
