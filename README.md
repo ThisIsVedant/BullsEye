@@ -57,16 +57,6 @@ npm install
 npm run dev
 ```
 
-![version](https://img.shields.io/badge/version-3.0.0-brightgreen.svg)
-![license](https://img.shields.io/badge/license-MIT-blue.svg)
-[![GitHub issues open](https://img.shields.io/github/issues/Horizon-ui/Horizon-ui-chakra.svg?maxAge=2592000)](https://github.com/Horizon-ui/Horizon-ui-chakra/issues?q=is%3Aopen+is%3Aissue)
-
-<p>&nbsp;</p>
-
-[<img alt="Horizon UI" src="https://i.ibb.co/fdyTwz1/introduction-image-2.png" /> ](https://github.com/Horizon-ui/Horizon-ui-chakra)
-
-<p>&nbsp;</p>
-
 Get started and build your dream web app with Horizon UI, the most trendiest &
 innovative Open Source Admin Template for Chakra UI & React!
 
