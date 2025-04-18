@@ -55,8 +55,7 @@ git clone https://github.com/ThisIsVedant/BullsEye
 cd horizon-ui-chakra
 npm install
 npm run dev
-
-)
+```
 
 ![version](https://img.shields.io/badge/version-3.0.0-brightgreen.svg)
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
