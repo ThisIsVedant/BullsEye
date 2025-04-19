@@ -32,7 +32,6 @@ import Storage from "views/admin/profile/components/Storage";
 import Upload from "views/admin/profile/components/Upload";
 
 // Assets
-import banner from "assets/img/auth/banner.png";
 import avatar from "assets/img/avatars/avatar4.png";
 import React from "react";
 
@@ -52,7 +51,7 @@ export default function Overview() {
         gap={{ base: "20px", xl: "20px" }}>
         <Banner
           gridArea='1 / 1 / 2 / 2'
-          banner={banner}
+        
           avatar={avatar}
           name='Adela Parkson'
           job='Product Designer'
@@ -90,7 +89,7 @@ export default function Overview() {
         gap={{ base: "20px", xl: "20px" }}>
         <Projects
           gridArea='1 / 2 / 2 / 2'
-          banner={banner}
+          
           avatar={avatar}
           name='Adela Parkson'
           job='Product Designer'
